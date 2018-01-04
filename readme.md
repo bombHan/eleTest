@@ -1,3 +1,5 @@
+[打包后效果预览](https://runuowbd123.github.io/homework/elementApp)
+
 ### vue多页面模板项目
 - `src/pages`存放页面入口，一个入口一个文件夹
 
