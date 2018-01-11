@@ -134,7 +134,7 @@ export default{
 			}
 			.nav{
 				height: 100px;
-				width: 200px;
+				width: 170px;
 				float: left;
 				.title{
 					padding-left: 12px;
